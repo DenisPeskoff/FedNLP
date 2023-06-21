@@ -1,0 +1,3 @@
+## Processed Statements JSON (Sander)
+
+This is a JSON file containing scores for every sentence of every statement. Note that sentences are created by splitting on ".". I put "TOO SHORT" for sentences which have less than five characters. Averages can be computed by taking the average of score arrays without the "TOO SHORT" values. You should find more accurate averages than previously, since I had counted "TOO SHORT" as 0 before.
