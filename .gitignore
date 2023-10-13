@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 .DS_Store
-*.ipynb
+toreview
 .vscode/
