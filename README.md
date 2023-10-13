@@ -1,6 +1,6 @@
 # FedNLP
 
-Code and Data for **GPT Deciphering Fedspeak: Quantifying Dissent Among Hawks and Doves**, a proceedings of EMNLP paper.
+Code and Data for **GPT Deciphering Fedspeak: Quantifying Dissent Among Hawks and Doves**, a paper published at Findings of EMNLP 2023.
 
 ## Setup
 
