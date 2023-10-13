@@ -1,0 +1,46 @@
+affine==2.4.0
+aiohttp==3.8.6
+aiosignal==1.3.1
+altgraph @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot7/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-133.100.1.1/altgraph-0.17.2-py2.py3-none-any.whl
+async-timeout==4.0.3
+attrs==23.1.0
+certifi==2023.7.22
+charset-normalizer==3.2.0
+click==8.1.7
+click-plugins==1.1.1
+cligj==0.7.2
+contextily==1.3.0
+contourpy==1.1.0
+cycler==0.11.0
+fonttools==4.42.1
+frozenlist==1.4.0
+future @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot7/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-133.100.1.1/future-0.18.2-py3-none-any.whl
+geographiclib==2.0
+geopy==2.4.0
+idna==3.4
+importlib-resources==6.0.1
+joblib==1.3.2
+kiwisolver==1.4.5
+macholib @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot7/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-133.100.1.1/macholib-1.15.2-py2.py3-none-any.whl
+matplotlib==3.7.2
+mercantile==1.2.1
+multidict==6.0.4
+numpy==1.25.2
+openai==0.28.1
+packaging==23.1
+pandas==2.1.1
+Pillow==10.0.0
+pyparsing==3.0.9
+python-dateutil==2.8.2
+pythonbible==0.11.0
+pytz==2023.3.post1
+rasterio==1.3.8
+requests==2.31.0
+six @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot7/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-133.100.1.1/six-1.15.0-py2.py3-none-any.whl
+snuggs==1.4.7
+tqdm==4.66.1
+tzdata==2023.3
+urllib3==2.0.4
+xyzservices==2023.7.0
+yarl==1.9.2
+zipp==3.16.2
