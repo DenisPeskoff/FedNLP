@@ -7,3 +7,6 @@ This contains a list of speakers, dates, and scores for every transcript. This w
 
 ## minutes_scores (Sander)
 Contains date and score for each minutes file, processed as a whole with GPT-4-32K. Was pretty cheap and quick.
+
+## fednlp_fewshot CSV, JSON (Adam)
+Contains meeting date, sentence, and manual score for statements. Intended for few shot prompt. 
